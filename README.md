@@ -1,8 +1,10 @@
 # A simple resume Web App  
 
+👉 **View the app here:** [CVitae Web App](https://cvitaefrontend.onrender.com/)
+
 A full-stack web application built with **React (TypeScript), Express, and MongoDB**.  
 
-##  🚀 Running the Web App  
+##  🚀 Running the Web App locally
 
 ### Backend (Express)  
    ```sh
